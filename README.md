@@ -23,12 +23,14 @@ Projeto desenvolvido durante a NLW - Next Level Week oferecida pela Rocketseat. 
 
 🎨 Layout
 Web
+
+![web](https://user-images.githubusercontent.com/9286590/98020850-51601d80-1de2-11eb-9f91-4d4f459d6d0c.png)
 NextLevelWeek NextLevelWeek
 
 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
-Expo
+Expo<br>
 Node.js
 React
 React Native
