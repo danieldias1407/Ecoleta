@@ -1,5 +1,5 @@
 
-https://github.com/danieldias1407/Ecoleta/issues/1#issue-735509150
+![banner](https://user-images.githubusercontent.com/9286590/98019899-190c0f80-1de1-11eb-83f1-8a3700308a7a.png)
 
 ♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
