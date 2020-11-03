@@ -22,3 +22,14 @@ entrar em contato com a entidade através do E-mail ou do WhatsApp
 Projeto desenvolvido durante a NLW - Next Level Week oferecida pela Rocketseat. O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 🎨 Layout
+Web
+NextLevelWeek NextLevelWeek
+
+🛠 Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+
+Expo
+Node.js
+React
+React Native
+TypeScript
